@@ -1,0 +1,1 @@
+This is a set of files and folders that you can clone to get started with Cursor quickly
